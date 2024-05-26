@@ -1,0 +1,10 @@
+name='homework3.py'
+print(name)
+name='Yuriy'
+print(name)
+age=55
+print(age)
+age=(age+1)
+print(age)
+is_student='True'
+print('is student',bool(is_student))
